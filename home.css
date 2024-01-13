@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("bck_img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
